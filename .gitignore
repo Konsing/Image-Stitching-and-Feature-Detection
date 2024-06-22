@@ -1,0 +1,9 @@
+# Ignore pycache
+__pycache__
+
+# Ignore any zip files
+*.zip
+
+# Ignore other files
+
+pier_homography_final_output.jpg
